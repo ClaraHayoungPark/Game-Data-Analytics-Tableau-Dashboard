@@ -1,4 +1,4 @@
-# Game Data Analytics Tableau Dashboard Portfolio
+# Game Data Analytics Tableau Dashboard
 
 ## 1. 프로젝트 개요
 
