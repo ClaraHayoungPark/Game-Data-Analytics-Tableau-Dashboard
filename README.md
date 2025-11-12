@@ -1,4 +1,4 @@
-# Game Data Analytics Tableau Dashboard
+# Game Data 의사결정 지원 대시보드 프로젝트
 
 ## 1. 프로젝트 개요
 
